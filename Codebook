@@ -1,0 +1,7 @@
+CODEBOOK
+To explain the data fields in TidyWeek4.txt
+Subject – the number corresponding to the test subject individuals in the study – 
+Activity – the number corresponding to one of six activities spelled out in Label, the activities that the Subject individuals were doing at the time of the corresponding measurements
+Label – the description of the six activities: Walking, Walking Upstairs, Walking Downstais, Sitting, Standing, and Laying
+Measurements – the mean of a number of measurements corresponding to each subject and each activity
+The dataset has 180 rows and 77 columns.
